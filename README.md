@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/tjamgo/tjamgo/blob/main/docs/logo.jpg" alt="Tjamgo" width="800">
+</div>
+
 # Tjamgo: Python Web Framework built for learning purpose
 
 ![Static Badge](https://img.shields.io/badge/purpose-learnig-green)
