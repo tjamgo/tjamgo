@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tjamgo/tjamgo/main/docs/logo.jpg" alt="Tjamgo" width="300">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" 
+        srcset="https://raw.githubusercontent.com/tjamgo/tjamgo/main/docs/logo-dark.jpg">
+        <img src="https://raw.githubusercontent.com/tjamgo/tjamgo/main/docs/logo.jpg" alt="Tjamgo" width="800">
+    </picture>
 </div>
 
 # Tjamgo: Python Web Framework built for learning purpose
