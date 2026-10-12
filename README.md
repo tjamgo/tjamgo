@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/tjamgo/tjamgo/blob/main/docs/logo.jpg" alt="Tjamgo" width="800">
+  <img src="https://github.com/tjamgo/tjamgo/blob/main/docs/logo.jpg" alt="Tjamgo" width="300">
 </div>
 
 # Tjamgo: Python Web Framework built for learning purpose
